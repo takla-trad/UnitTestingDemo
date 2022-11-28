@@ -1,0 +1,16 @@
+insert into employee (name, engaged) values
+    ('name1', false),
+    ('name2', false),
+    ('name3', false),
+    ('name4', false),
+    ('name5', false),
+    ('name6', false),
+    ('name7', false),
+    ('name8', false),
+    ('name9', false),
+    ('name10', false),
+    ('name11', false),
+    ('name12', false),
+    ('name13', false),
+    ('name14', false),
+    ('name15', false);
